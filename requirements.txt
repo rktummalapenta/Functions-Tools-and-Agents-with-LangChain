@@ -1,0 +1,11 @@
+openai==1.52.0
+python-dotenv
+langchain==0.3.4
+tiktoken
+langchain-openai==0.2.3
+langchain-community==0.3.0
+docarray
+wikipedia
+openapi-pydantic==0.3.2
+jupyter
+panel
