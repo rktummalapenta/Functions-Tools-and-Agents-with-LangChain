@@ -19,7 +19,7 @@ After taking this course, you’ll know how to:
 
 ### Python Packages
 
-This repository notebooks code are updated with latest GPT 4o Mini and LangChain Versions. The python libraries are mentioned in requirements.txt file
+The code updated with latest GPT 4o Mini model and LangChain Versions. Please check libraries and their versions in requirements.txt file for installation.
 
 
 ## About the Instructors
